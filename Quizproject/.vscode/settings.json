@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Old Laptop Data\\Users\\Documents\\UBIT-BSCS\\semester 3\\oop - java\\Project\\Libraries\\gson-2.8.2.jar",
+        "d:\\Old Laptop Data\\Users\\Documents\\UBIT-BSCS\\semester 3\\oop - java\\Project\\Libraries\\json-simple-1.1.jar",
+        "d:\\Old Laptop Data\\Users\\Documents\\UBIT-BSCS\\semester 3\\oop - java\\Project\\Libraries\\jsoup-1.14.1.jar"
+    ]
+}

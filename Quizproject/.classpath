@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="quizproject/by Muzammil/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/quizproject/by Muzammil"/>
+	<classpathentry kind="lib" path="Libraries/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="Libraries/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="Libraries/jsoup-1.14.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

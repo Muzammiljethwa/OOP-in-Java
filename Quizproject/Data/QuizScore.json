@@ -1,0 +1,827 @@
+[
+  {
+    "QuestionIndex": [
+      41,
+      16,
+      9,
+      25,
+      33,
+      1,
+      5,
+      38,
+      3,
+      35
+    ],
+    "Score": "",
+    "GivenAnswers": [
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered"
+    ],
+    "SeatNumber": "B19102001",
+    "Name": "Aazim Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102002",
+    "Name": "Abdul Hanan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102003",
+    "Name": "Abdul Hannan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102004",
+    "Name": "Abdul Muqsit"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102005",
+    "Name": "Abdul Rehman"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102007",
+    "Name": "Abdullah Hussain"
+  },
+  {
+    "QuestionIndex": [
+      18,
+      41,
+      1,
+      12,
+      36
+    ],
+    "Score": "",
+    "GivenAnswers": [
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered"
+    ],
+    "SeatNumber": "B19102008",
+    "Name": "Affan Mirza"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102009",
+    "Name": "Agha Mushahid"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102010",
+    "Name": "Ahmed Haseeb"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102011",
+    "Name": "Aiman Zaheer"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102012",
+    "Name": "Aina Tehreem"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102013",
+    "Name": "Ali Abdullah"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102014",
+    "Name": "Ali Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102015",
+    "Name": "Ali Bin"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102016",
+    "Name": "Ameer Hamza"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102017",
+    "Name": "Ammad Ahsan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102018",
+    "Name": "Anmol Zahra"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102019",
+    "Name": "Aqsa Shahzad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102020",
+    "Name": "Areeb Murtaza"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102021",
+    "Name": "Arif Ali"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102022",
+    "Name": "Arslan Ayaz"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102023",
+    "Name": "Ashar Nadeem"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102024",
+    "Name": "Athar Ali"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102026",
+    "Name": "Ayesha Muttalib"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102027",
+    "Name": "Azhar Mehmood"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102028",
+    "Name": "Bhasker Poonamchand"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102029",
+    "Name": "Bilal Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102030",
+    "Name": "Bilal Hassan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102031",
+    "Name": "Erum Rehman"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102032",
+    "Name": "Fahad Pervez"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102033",
+    "Name": "Fahad Qasim"
+  },
+  {
+    "QuestionIndex": [
+      39,
+      13,
+      7,
+      28,
+      9,
+      27,
+      6,
+      31,
+      11,
+      18,
+      14,
+      1,
+      17,
+      26,
+      35
+    ],
+    "Score": "",
+    "GivenAnswers": [
+      " 7 ",
+      " Use of pointers ",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      " stdio.h ",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered"
+    ],
+    "SeatNumber": "B19102034",
+    "Name": "Faseeh Iftikhar"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102035",
+    "Name": "Fatima Habib"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102036",
+    "Name": "Fizza Khan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102037",
+    "Name": "Ghazi Muhammad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102038",
+    "Name": "Ghulam Muhammad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102039",
+    "Name": "Hadia Abdul"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102040",
+    "Name": "Hammad Bin"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102041",
+    "Name": "Hamza Ejaz"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102042",
+    "Name": "Hamza Wahab"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102043",
+    "Name": "Hanan Stanley"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102044",
+    "Name": "Hassan Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102045",
+    "Name": "Hassan Mushtaq"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102046",
+    "Name": "Hunaina Muzaffar"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102047",
+    "Name": "Ibrahim Saleem"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102048",
+    "Name": "Izhan Nadeem"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102049",
+    "Name": "Khadija Sajid"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102050",
+    "Name": "Khwla Akbar"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102051",
+    "Name": "Laiba Ghulam"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102052",
+    "Name": "Maaz Khan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102053",
+    "Name": "Maaza Mehmood"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102054",
+    "Name": "Mirza Arham"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102055",
+    "Name": "Mirza Viraad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102056",
+    "Name": "Mubashir Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102057",
+    "Name": "Mubbashir Ali"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102058",
+    "Name": "Muhammad Abdullah"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102059",
+    "Name": "Muhammad Adeel"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102060",
+    "Name": "Muhammad Adil"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102061",
+    "Name": "Muhammad Affan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102062",
+    "Name": "Muhammad Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102063",
+    "Name": "Muhammad Ahmed Amir"
+  },
+  {
+    "QuestionIndex": [
+      40,
+      4,
+      38,
+      30,
+      34
+    ],
+    "Score": "",
+    "GivenAnswers": [
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered"
+    ],
+    "SeatNumber": "B19102064",
+    "Name": "Muhammad Alias"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102065",
+    "Name": "Muhammad Ammar"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102066",
+    "Name": "Muhammad Anas"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102067",
+    "Name": "Muhammad Anas"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102070",
+    "Name": "Muhammad Aseef"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102071",
+    "Name": "Muhammad Basit"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102072",
+    "Name": "Muhammad Bilal"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102073",
+    "Name": "Muhammad Ebad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102074",
+    "Name": "Muhammad Faiz"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102075",
+    "Name": "Muhammad Faizan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102076",
+    "Name": "Muhammad Habib"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102077",
+    "Name": "Muhammad Hamid"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102078",
+    "Name": "Muhammad Hanif"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102079",
+    "Name": "Muhammad Hanzala"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102080",
+    "Name": "Muhammad Haris"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102081",
+    "Name": "Muhammad Hashir"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102082",
+    "Name": "Muhammad Hassaan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102083",
+    "Name": "Muhammad Hassan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102084",
+    "Name": "Muhammad Khizer"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102085",
+    "Name": "Muhammad Mudassir"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102086",
+    "Name": "Muhammad Muslim"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102087",
+    "Name": "Muhammad Osaif"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102088",
+    "Name": "Muhammad Osama"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102089",
+    "Name": "Muhammad Osama"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102090",
+    "Name": "Muhammad Owais"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102091",
+    "Name": "Muhammad Saad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102092",
+    "Name": "Muhammad Sameer"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102093",
+    "Name": "Muhammad Shahmir"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102094",
+    "Name": "Muhammad Shahzaib"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102095",
+    "Name": "Muhammad Shariq"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102096",
+    "Name": "Muhammad Shozab"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102097",
+    "Name": "Muhammad Siddique"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102098",
+    "Name": "Muhammad Subhan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102099",
+    "Name": "Muhammad Taha"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102100",
+    "Name": "Muhammad Talha"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102101",
+    "Name": "Muhammad Tanveer"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102102",
+    "Name": "Muhammad Tauha"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102103",
+    "Name": "Muhammad Umair"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102104",
+    "Name": "Muhammad Umar"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102105",
+    "Name": "Muhammad Usman"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102106",
+    "Name": "Muhammad Yasir"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102107",
+    "Name": "Muhammad Zaid"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102108",
+    "Name": "Murtaza Raheem"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102109",
+    "Name": "Muzammil Muhammad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102110",
+    "Name": "Muzammil Ahmed"
+  },
+  {
+    "QuestionIndex": [
+      0,
+      2,
+      35,
+      41,
+      25,
+      42,
+      6,
+      17,
+      3,
+      7
+    ],
+    "Score": "",
+    "GivenAnswers": [
+      " Parent of an object ",
+      " Member functions ",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered",
+      "Not Answered"
+    ],
+    "SeatNumber": "B19102111",
+    "Name": "Muzammil Siddiq Jethwa"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102112",
+    "Name": "Nadeem Hussain"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102113",
+    "Name": "Nadir Hussain"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102114",
+    "Name": "Nazish Nadeem"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102115",
+    "Name": "Noman Abdul"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102116",
+    "Name": "Omama Rehman"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102117",
+    "Name": "Omer Farooq"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102118",
+    "Name": "Raja Roshan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102119",
+    "Name": "Rameen Shoaib"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102120",
+    "Name": "Rana Muhammad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102122",
+    "Name": "Saad Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102123",
+    "Name": "Saad Bin"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102125",
+    "Name": "Salman Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102126",
+    "Name": "Salman Razzaq"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102127",
+    "Name": "Shafaq Salman"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102128",
+    "Name": "Shaheryar Khan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102129",
+    "Name": "Sheikh Rasib"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102130",
+    "Name": "Siddiq Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102131",
+    "Name": "Sohaib Waheed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102132",
+    "Name": "Sualeha Sehar"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102133",
+    "Name": "Syed Abul"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102134",
+    "Name": "Syed Ahmed"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102135",
+    "Name": "Syed Arshiyan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102136",
+    "Name": "Syed Azlan"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102137",
+    "Name": "Syed Huzaifa"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102138",
+    "Name": "Syed Junaid"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102139",
+    "Name": "Syed Kamran"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102141",
+    "Name": "Syed Minaam"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102142",
+    "Name": "Syed Muhammad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102143",
+    "Name": "Syed Muhammad"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102144",
+    "Name": "Syed Muntazir"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102145",
+    "Name": "Syed Rafay"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102146",
+    "Name": "Syed Sarim"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102147",
+    "Name": "Syed Shah"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102148",
+    "Name": "Syed Shams"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102149",
+    "Name": "Syed Sharjeel"
+  },
+  {
+    "Score": "",
+    "SeatNumber": "B19102150",
+    "Name": "Syed Shayan"
+  }
+]
