@@ -1,29 +1,29 @@
 [
   {
     "QuestionIndex": [
-      41,
-      16,
-      9,
-      25,
-      33,
-      1,
-      5,
-      38,
-      3,
-      35
+      19,
+      6,
+      26,
+      12,
+      42,
+      2,
+      20,
+      17,
+      28,
+      16
     ],
-    "Score": "",
+    "Score": "7/10",
     "GivenAnswers": [
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered",
-      "Not Answered"
+      " Member functions need not be declared inside the class definition ",
+      " As many as you want ",
+      " Objects canâ€™t be passed by reference ",
+      " Use of this pointer ",
+      " Function overriding ",
+      " Data members ",
+      " student class{ }; ",
+      " Friend class can not access any data member of another class but can use itâ€™s methods ",
+      " Passed as function ",
+      " Template class "
     ],
     "SeatNumber": "B19102001",
     "Name": "Aazim Ahmed"
