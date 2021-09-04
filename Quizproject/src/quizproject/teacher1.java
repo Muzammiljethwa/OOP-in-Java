@@ -401,7 +401,7 @@ public void setStartQuiz(boolean setbool){
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
         // TODO add your handling code here:
         setStartQuiz(true);
-        JOptionPane.showMessageDialog(this, "Quiz has beem Started.");
+        JOptionPane.showMessageDialog(this, "Quiz has been Started.");
         
     }//GEN-LAST:event_jButton11ActionPerformed
 
