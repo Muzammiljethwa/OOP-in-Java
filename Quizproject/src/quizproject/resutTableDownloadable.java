@@ -37,11 +37,22 @@ import org.json.simple.parser.JSONParser;
  * @author mzjet
  */
 public class resutTableDownloadable extends javax.swing.JFrame {
+    
+    
+    String email;
+    
+    public void setemail(String Email){
+        email = Email;
+    }
+    public String getemail(){
+        return email;
+    }
 
     /**
      * Creates new form resutTableDownloadable
      */
-    public resutTableDownloadable() {
+    public resutTableDownloadable(String email) {
+        setemail(email);
         initComponents();
         setTitle("Result");
         setLocationRelativeTo(null);
@@ -125,7 +136,7 @@ public class resutTableDownloadable extends javax.swing.JFrame {
             );
             table.getColumn("Quiz Sheet").setCellRenderer(new ButtonRenderer());
             table.getColumn("Quiz Sheet").setCellEditor(
-                new ButtonEditor(new JCheckBox()));
+                new ButtonEditor(new JCheckBox(),getemail()));
 
             UIDefaults defaults = UIManager.getLookAndFeelDefaults();
             if (defaults.get("Table.alternateRowColor") == null)
@@ -145,7 +156,6 @@ public class resutTableDownloadable extends javax.swing.JFrame {
             JTableHeader Theader = table.getTableHeader();
             Theader.setFont(new Font("Tahome",Font.BOLD,20) );
             Theader.setBackground(Color.decode("#000066"));
-            // Theader.setBackground(Color.BLACK);
             Theader.setForeground(Color.BLACK);
 
             table.getTableHeader().setBackground(Color.BLACK);
@@ -367,7 +377,7 @@ public class resutTableDownloadable extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new resutTableDownloadable().setVisible(true);
+                new resutTableDownloadable("a@a.com").setVisible(true);
             }
         });
     }
@@ -386,6 +396,35 @@ public class resutTableDownloadable extends javax.swing.JFrame {
 
 class ButtonRenderer extends JButton implements TableCellRenderer {
 
+ public String checkMessage(String seatNumber)throws Exception{
+       
+        JSONParser parser = new JSONParser();
+
+        Object obj = parser.parse(new FileReader("./Data/QuizScore.json"));
+
+        JSONArray student = (JSONArray) obj;
+
+        Object[] array = student.toArray();
+        JSONArray msg = new JSONArray();
+        
+        for(int i=0; i<array.length; i++){
+
+            JSONObject StudentObject = (JSONObject) array[i];
+            if(StudentObject.get("SeatNumber").equals(seatNumber)){
+                 msg = (JSONArray) StudentObject.get("Messages");
+            }    
+        }
+        
+        Object[] msgLi = msg.toArray();
+        
+//        for(Object i: msgLi){
+//            System.out.println(i);}
+        
+        
+        if(msgLi.length == 0){ return "false"; }
+        else{ return "true"; }
+    }
+ 
   public ButtonRenderer() {
     setOpaque(true);
   }
@@ -396,9 +435,20 @@ class ButtonRenderer extends JButton implements TableCellRenderer {
       setForeground(table.getSelectionForeground());
       setBackground(table.getSelectionBackground());
     } else {
+        try{
+//            System.out.println(checkMessage(value.toString()));
+        if(checkMessage(value.toString()).equals("true") ){
+            setForeground(table.getForeground());
+            setBackground(Color.decode("#ccff66"));
+        }
+        else{
+//        Color.decode("#4dff4d")
       setForeground(table.getForeground());
       setBackground(UIManager.getColor("Button.background"));
+          }
+        }catch(Exception e){e.printStackTrace();}
     }
+      
     setText((value == null) ? "" : value.toString());
     return this;
   }
@@ -409,16 +459,34 @@ class ButtonRenderer extends JButton implements TableCellRenderer {
  */
 
 class ButtonEditor extends DefaultCellEditor {
+    
+     
+    
+    
+    
+    String email;
+    
+    public void setemail(String Email){
+        email = Email;
+    }
+    public String getemail(){
+        return email;
+    }  
+    
   protected JButton button;
 
   private String label;
 
   private boolean isPushed;
 
-  public ButtonEditor(JCheckBox checkBox) {
+  public ButtonEditor(JCheckBox checkBox,String email) {
+      
     super(checkBox);
+    
+    setemail(email);
     button = new JButton();
     button.setOpaque(true);
+    
     button.addActionListener(new ActionListener() {
       public void actionPerformed(ActionEvent e) {
         fireEditingStopped();
@@ -428,15 +496,19 @@ class ButtonEditor extends DefaultCellEditor {
 
   public Component getTableCellEditorComponent(JTable table, Object value,
       boolean isSelected, int row, int column) {
+      
     if (isSelected) {
       button.setForeground(table.getSelectionForeground());
       button.setBackground(table.getSelectionBackground());
     } else {
+        
+        
       button.setForeground(table.getForeground());
       button.setBackground(table.getBackground());
     }
     label = (value == null) ? "" : value.toString();
     button.setText(label);
+    
     isPushed = true;
     return button;
   }
@@ -446,7 +518,8 @@ class ButtonEditor extends DefaultCellEditor {
       // 
       // 
 //      new scoreMain(label).setVisible(true);
-        new scoreMain(label);
+        
+        new scoreMain(label,1,getemail());
 //      JOptionPane.showMessageDialog(button, label + ": Ouch!");
       // System.out.println(label + ": Ouch!");
     }

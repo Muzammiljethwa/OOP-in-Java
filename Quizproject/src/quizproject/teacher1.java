@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
+import quizproject.TeachersPanel.DeleteMessages;
 import quizproject.TeachersPanel.addDeleteQuestion;
 import quizproject.TeachersPanel.addDeleteStudent;
 import quizproject.TeachersPanel.resetScore;
@@ -85,6 +86,7 @@ public class teacher1 extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         jLabel3 = new javax.swing.JLabel();
         jLabel4 = new javax.swing.JLabel();
+        jButton13 = new javax.swing.JButton();
         jButton6 = new javax.swing.JButton();
         jButton7 = new javax.swing.JButton();
         jButton8 = new javax.swing.JButton();
@@ -148,6 +150,17 @@ public class teacher1 extends javax.swing.JFrame {
         }catch(Exception e){e.printStackTrace();}
         jLabel4.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
+        jButton13.setBackground(new java.awt.Color(0, 0, 0));
+        jButton13.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jButton13.setForeground(new java.awt.Color(255, 255, 255));
+        jButton13.setText("Delete Messages");
+        jButton13.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jButton13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton13ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
@@ -159,7 +172,8 @@ public class teacher1 extends javax.swing.JFrame {
                     .addComponent(jButton5, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jButton13, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap())
         );
         jPanel2Layout.setVerticalGroup(
@@ -173,9 +187,11 @@ public class teacher1 extends javax.swing.JFrame {
                 .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel4, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jButton13, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(40, 40, 40))
+                .addGap(22, 22, 22))
         );
 
         jButton6.setBackground(new java.awt.Color(0, 0, 0));
@@ -190,7 +206,7 @@ public class teacher1 extends javax.swing.JFrame {
 
         jButton7.setBackground(new java.awt.Color(204, 204, 204));
         jButton7.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jButton7.setText("Modify STUDENT");
+        jButton7.setText("ADD/DEL STUDENT");
         jButton7.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -317,7 +333,11 @@ public class teacher1 extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        new resutTableDownloadable().setVisible(true);
+        try{
+            String emailg = getinfo(getString(), "Email");
+            new resutTableDownloadable(emailg).setVisible(true);
+            }catch(Exception e){e.printStackTrace();}
+        
     }//GEN-LAST:event_jButton6ActionPerformed
 public void setLogin(String email, boolean setbool ){
         try{
@@ -425,6 +445,11 @@ public void setStartQuiz(boolean setbool){
         new setSize().setVisible(true);
     }//GEN-LAST:event_jButton9ActionPerformed
 
+    private void jButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton13ActionPerformed
+        // TODO add your handling code here:
+        new DeleteMessages().setVisible(true);
+    }//GEN-LAST:event_jButton13ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -464,6 +489,7 @@ public void setStartQuiz(boolean setbool){
     private javax.swing.JButton jButton10;
     private javax.swing.JButton jButton11;
     private javax.swing.JButton jButton12;
+    private javax.swing.JButton jButton13;
     private javax.swing.JButton jButton5;
     private javax.swing.JButton jButton6;
     private javax.swing.JButton jButton7;

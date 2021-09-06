@@ -314,7 +314,7 @@ public class questions extends JFrame implements ActionListener{
                 update.updatepa(seat_no, pa, score, size);
             } catch (Exception e) {e.printStackTrace();}
             this.setVisible(false);
-            new scoreMain(seat_no);
+            new scoreMain(seat_no,0,"");
 //        }else if(ae.getSource() == lifeline){
 //            if(count == 2 || count == 4 || count == 6 || count == 8 || count == 9){
 //                opt2.setEnabled(false);
@@ -378,7 +378,7 @@ public class questions extends JFrame implements ActionListener{
                 update.updatepa(seat_no, pa, score, size);
             } catch (Exception e) {e.printStackTrace();}
             this.setVisible(false);
-            new scoreMain(seat_no);
+            new scoreMain(seat_no,0,"");
             
             }else{
                 if(options.getSelection() == null){

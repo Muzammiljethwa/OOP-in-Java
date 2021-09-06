@@ -72,6 +72,7 @@ public class Quizproject extends JFrame implements ActionListener{
         b2.addActionListener(this);
         l2.add(b2);
        
+        setLocationRelativeTo(null);
         setVisible(true);
     }
     
@@ -190,7 +191,7 @@ public class Quizproject extends JFrame implements ActionListener{
                                 }
                     }
                     else if( Existscore.equals("false") ){
-                        new scoreMain(seat_no);
+                        new scoreMain(seat_no,0,"");
                     }
                 }
                 else if( Existseatnumber.equals("false") ){
@@ -212,7 +213,7 @@ public class Quizproject extends JFrame implements ActionListener{
         }
 
     public static void main(String[] args) {
-        new Quizproject();
+        new Quizproject().setVisible(true);
     }
     
 }

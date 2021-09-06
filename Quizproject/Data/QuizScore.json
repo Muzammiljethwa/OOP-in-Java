@@ -13,6 +13,7 @@
       16
     ],
     "Score": "7/10",
+    "Messages": [],
     "GivenAnswers": [
       " Member functions need not be declared inside the class definition ",
       " As many as you want ",
@@ -29,27 +30,63 @@
     "Name": "Aazim Ahmed"
   },
   {
-    "Score": "",
+    "QuestionIndex": [
+      6,
+      32,
+      37,
+      39,
+      7,
+      36,
+      4,
+      11,
+      35,
+      1
+    ],
+    "Score": "1/10",
+    "Messages": [
+      "Abdul Hanan: Sir 100 200 zyda lelen lekin pass krden",
+      "Muzammil Jethwa: bhag yahan se",
+      "Muzammil Jethwa: Faltu mein Pass krdu?",
+      "A wala: What is this behavour Hannan?",
+      "Abdul Hanan: Sorry sir I will not do it again",
+      "A wala: ok jao maf kia"
+    ],
+    "GivenAnswers": [
+      " As many as you want ",
+      "Not Answered",
+      " Object must be used is violated ",
+      " Data transfer ",
+      " 1993 ",
+      " Data hiding ",
+      " Polymorphism ",
+      " Encapsulation and Polymorphism ",
+      "Not Answered",
+      "Not Answered"
+    ],
     "SeatNumber": "B19102002",
     "Name": "Abdul Hanan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102003",
     "Name": "Abdul Hannan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102004",
     "Name": "Abdul Muqsit"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102005",
     "Name": "Abdul Rehman"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102007",
     "Name": "Abdullah Hussain"
   },
@@ -62,6 +99,7 @@
       36
     ],
     "Score": "",
+    "Messages": [],
     "GivenAnswers": [
       "Not Answered",
       "Not Answered",
@@ -74,121 +112,145 @@
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102009",
     "Name": "Agha Mushahid"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102010",
     "Name": "Ahmed Haseeb"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102011",
     "Name": "Aiman Zaheer"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102012",
     "Name": "Aina Tehreem"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102013",
     "Name": "Ali Abdullah"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102014",
     "Name": "Ali Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102015",
     "Name": "Ali Bin"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102016",
     "Name": "Ameer Hamza"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102017",
     "Name": "Ammad Ahsan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102018",
     "Name": "Anmol Zahra"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102019",
     "Name": "Aqsa Shahzad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102020",
     "Name": "Areeb Murtaza"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102021",
     "Name": "Arif Ali"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102022",
     "Name": "Arslan Ayaz"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102023",
     "Name": "Ashar Nadeem"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102024",
     "Name": "Athar Ali"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102026",
     "Name": "Ayesha Muttalib"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102027",
     "Name": "Azhar Mehmood"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102028",
     "Name": "Bhasker Poonamchand"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102029",
     "Name": "Bilal Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102030",
     "Name": "Bilal Hassan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102031",
     "Name": "Erum Rehman"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102032",
     "Name": "Fahad Pervez"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102033",
     "Name": "Fahad Qasim"
   },
@@ -211,6 +273,7 @@
       35
     ],
     "Score": "",
+    "Messages": [],
     "GivenAnswers": [
       " 7 ",
       " Use of pointers ",
@@ -233,146 +296,175 @@
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102035",
     "Name": "Fatima Habib"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102036",
     "Name": "Fizza Khan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102037",
     "Name": "Ghazi Muhammad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102038",
     "Name": "Ghulam Muhammad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102039",
     "Name": "Hadia Abdul"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102040",
     "Name": "Hammad Bin"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102041",
     "Name": "Hamza Ejaz"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102042",
     "Name": "Hamza Wahab"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102043",
     "Name": "Hanan Stanley"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102044",
     "Name": "Hassan Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102045",
     "Name": "Hassan Mushtaq"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102046",
     "Name": "Hunaina Muzaffar"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102047",
     "Name": "Ibrahim Saleem"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102048",
     "Name": "Izhan Nadeem"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102049",
     "Name": "Khadija Sajid"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102050",
     "Name": "Khwla Akbar"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102051",
     "Name": "Laiba Ghulam"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102052",
     "Name": "Maaz Khan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102053",
     "Name": "Maaza Mehmood"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102054",
     "Name": "Mirza Arham"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102055",
     "Name": "Mirza Viraad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102056",
     "Name": "Mubashir Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102057",
     "Name": "Mubbashir Ali"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102058",
     "Name": "Muhammad Abdullah"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102059",
     "Name": "Muhammad Adeel"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102060",
     "Name": "Muhammad Adil"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102061",
     "Name": "Muhammad Affan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102062",
     "Name": "Muhammad Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102063",
     "Name": "Muhammad Ahmed Amir"
   },
@@ -385,6 +477,7 @@
       34
     ],
     "Score": "",
+    "Messages": [],
     "GivenAnswers": [
       "Not Answered",
       "Not Answered",
@@ -397,221 +490,265 @@
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102065",
     "Name": "Muhammad Ammar"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102066",
     "Name": "Muhammad Anas"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102067",
     "Name": "Muhammad Anas"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102070",
     "Name": "Muhammad Aseef"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102071",
     "Name": "Muhammad Basit"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102072",
     "Name": "Muhammad Bilal"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102073",
     "Name": "Muhammad Ebad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102074",
     "Name": "Muhammad Faiz"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102075",
     "Name": "Muhammad Faizan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102076",
     "Name": "Muhammad Habib"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102077",
     "Name": "Muhammad Hamid"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102078",
     "Name": "Muhammad Hanif"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102079",
     "Name": "Muhammad Hanzala"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102080",
     "Name": "Muhammad Haris"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102081",
     "Name": "Muhammad Hashir"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102082",
     "Name": "Muhammad Hassaan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102083",
     "Name": "Muhammad Hassan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102084",
     "Name": "Muhammad Khizer"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102085",
     "Name": "Muhammad Mudassir"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102086",
     "Name": "Muhammad Muslim"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102087",
     "Name": "Muhammad Osaif"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102088",
     "Name": "Muhammad Osama"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102089",
     "Name": "Muhammad Osama"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102090",
     "Name": "Muhammad Owais"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102091",
     "Name": "Muhammad Saad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102092",
     "Name": "Muhammad Sameer"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102093",
     "Name": "Muhammad Shahmir"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102094",
     "Name": "Muhammad Shahzaib"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102095",
     "Name": "Muhammad Shariq"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102096",
     "Name": "Muhammad Shozab"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102097",
     "Name": "Muhammad Siddique"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102098",
     "Name": "Muhammad Subhan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102099",
     "Name": "Muhammad Taha"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102100",
     "Name": "Muhammad Talha"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102101",
     "Name": "Muhammad Tanveer"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102102",
     "Name": "Muhammad Tauha"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102103",
     "Name": "Muhammad Umair"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102104",
     "Name": "Muhammad Umar"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102105",
     "Name": "Muhammad Usman"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102106",
     "Name": "Muhammad Yasir"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102107",
     "Name": "Muhammad Zaid"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102108",
     "Name": "Murtaza Raheem"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102109",
     "Name": "Muzammil Muhammad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102110",
     "Name": "Muzammil Ahmed"
   },
@@ -629,6 +766,7 @@
       7
     ],
     "Score": "",
+    "Messages": [],
     "GivenAnswers": [
       " Parent of an object ",
       " Member functions ",
@@ -646,181 +784,217 @@
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102112",
     "Name": "Nadeem Hussain"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102113",
     "Name": "Nadir Hussain"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102114",
     "Name": "Nazish Nadeem"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102115",
     "Name": "Noman Abdul"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102116",
     "Name": "Omama Rehman"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102117",
     "Name": "Omer Farooq"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102118",
     "Name": "Raja Roshan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102119",
     "Name": "Rameen Shoaib"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102120",
     "Name": "Rana Muhammad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102122",
     "Name": "Saad Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102123",
     "Name": "Saad Bin"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102125",
     "Name": "Salman Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102126",
     "Name": "Salman Razzaq"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102127",
     "Name": "Shafaq Salman"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102128",
     "Name": "Shaheryar Khan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102129",
     "Name": "Sheikh Rasib"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102130",
     "Name": "Siddiq Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102131",
     "Name": "Sohaib Waheed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102132",
     "Name": "Sualeha Sehar"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102133",
     "Name": "Syed Abul"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102134",
     "Name": "Syed Ahmed"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102135",
     "Name": "Syed Arshiyan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102136",
     "Name": "Syed Azlan"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102137",
     "Name": "Syed Huzaifa"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102138",
     "Name": "Syed Junaid"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102139",
     "Name": "Syed Kamran"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102141",
     "Name": "Syed Minaam"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102142",
     "Name": "Syed Muhammad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102143",
     "Name": "Syed Muhammad"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102144",
     "Name": "Syed Muntazir"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102145",
     "Name": "Syed Rafay"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102146",
     "Name": "Syed Sarim"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102147",
     "Name": "Syed Shah"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102148",
     "Name": "Syed Shams"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102149",
     "Name": "Syed Sharjeel"
   },
   {
     "Score": "",
+    "Messages": [],
     "SeatNumber": "B19102150",
     "Name": "Syed Shayan"
   }

@@ -86,8 +86,8 @@
     },
     {
       "Options": [
-        " 1970â€™s ",
-        " 1980â€™s ",
+        " 1970's ",
+        " 1980's ",
         " 1993 ",
         " 1995 "
       ],
@@ -99,7 +99,7 @@
     {
       "Options": [
         " It supports usual declaration of primitive data types ",
-        " It doesnâ€™t support all types of inheritance ",
+        " It doesn't support all types of inheritance ",
         " It allows code to be written outside classes ",
         " It does not support pointers "
       ],
