@@ -1,2 +1,0 @@
-scrapData$scrapPage
-scrapData
