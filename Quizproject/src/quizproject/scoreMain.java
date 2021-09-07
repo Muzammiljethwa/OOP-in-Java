@@ -393,7 +393,7 @@ public class scoreMain extends javax.swing.JFrame {
             JTableHeader Theader = table.getTableHeader();
             Theader.setFont(new Font("Tahome",Font.BOLD,20) );
 
-            Theader.setBackground(Color.BLUE);
+            Theader.setBackground(Color.WHITE);
             Theader.setForeground(Color.BLACK);
 
             table.getTableHeader().setOpaque(false);
@@ -678,7 +678,7 @@ public class scoreMain extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new scoreMain("B19102111",0,"a@a.com").setVisible(true);
+                new scoreMain("B19102001",0,"a@a.com").setVisible(true);
             }
         });
     }
